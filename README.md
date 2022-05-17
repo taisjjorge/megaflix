@@ -10,7 +10,7 @@
 <hr>
 
 ##### Mobile
- <img width="70%" src="/public/mobile_responsive.png">
+ <img width="40%" src="/public/mobile_responsive.png">
 
 ##### Website
  <img width="70%" src="/public/megaflix_website.png">
